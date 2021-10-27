@@ -14,3 +14,11 @@ h2 {
     font-size: 2rem;
     font-weight: bold;
 }
+
+li {
+    list-style: none;
+}
+
+.negrita1 {
+    font-size: 2rem;
+}
