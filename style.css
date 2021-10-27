@@ -22,3 +22,9 @@ li {
 .negrita1 {
     font-size: 2rem;
 }
+
+.imagen {
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 15px;
+}
